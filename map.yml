@@ -1,0 +1,4 @@
+map_name: HotWar
+games:
+- {game_name: Hot War-1956, file_name: Hot_War-1956.xml}
+version: 0
